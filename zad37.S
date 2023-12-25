@@ -1,3 +1,5 @@
+# Priprema T12
+# Autor: Dejana Sevic SV63/2023
 .section .data
 	prvi_ispis:	.ascii "Unesite string: \0"
 	prvi_ispis_len = (.-prvi_ispis)/1
