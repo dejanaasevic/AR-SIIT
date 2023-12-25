@@ -1,3 +1,4 @@
+# Priprema T12
 # Autor: Dejana Sevic, SV63/2023
 .section .data
 ulaz_str: .ascii "Unesite string: \0"
