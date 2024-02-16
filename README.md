@@ -33,3 +33,8 @@ Asembler - priprema za T12 (ocena 7)
 32. **Brojač reči**
 33. Dužina svake reči u stringu
 34. **Palindrom stringa**
+
+1. Napisati asemblerski program kojim se sa standardnog ulaza učitava string sa najviše 50 karaktera. U unetom 
+stringu treba pronaći cifru (‘0’-’9’) sa najvećim ASCII kodom i cifru sa najmanjim ASCII kodom. Kao izlazni kod 
+program vraća zbir ASCII kodova pronađenih ekstrema.
+Ako nije pronađena nijedan cifra program vraća 0 kao izlazni kod.
